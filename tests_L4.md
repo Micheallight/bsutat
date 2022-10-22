@@ -15,9 +15,7 @@
 | --- | --- | --- | --- |
 | 1 | Click button “Enter Delivery ZIP Code” | Pop-up window for entering ZIP Code has appeared  | Pop-up window for entering ZIP Code has appeared  |
 | 2 | Enter digits to text field | Text “a valid zip code is required” disappeared when number of digits equals 5 | Text “a valid zip code is required” disappeared when number of digits equals 5 |
-| 3 | Click button “Confirm” | Pop-up window has disappeared. 
-The text “Enter Delivery ZIP Code” was replaced by the text “Delivery ZIP Code: xxxxx” with entered numbers in place of “xxxxx” | Pop-up window has disappeared. 
-The text “Enter Delivery ZIP Code” was replaced by the text “Delivery ZIP Code: xxxxx” with entered numbers in place of “xxxxx” |
+| 3 | Click button “Confirm” | Pop-up window has disappeared. The text “Enter Delivery ZIP Code” was replaced by the text “Delivery ZIP Code: xxxxx” with entered numbers in place of “xxxxx” | Pop-up window has disappeared. The text “Enter Delivery ZIP Code” was replaced by the text “Delivery ZIP Code: xxxxx” with entered numbers in place of “xxxxx” |
 
 # 2. Checking price displaying
 
@@ -40,16 +38,8 @@ The text “Enter Delivery ZIP Code” was replaced by the text “Delivery ZIP 
 
 | ID | Test Step Description | Expected Result | Actual Result |
 | --- | --- | --- | --- |
-| 1 | Click button “Model 3 Performance” | Picture of car has changed. 
-Est. Delivery (estimated delivery) has been refreshed.
-Technical specifications have been refreshed. | Picture of car has changed. 
-Est. Delivery (estimated delivery) has been refreshed.
-Technical specifications have been refreshed. |
-| 2 | Click button “Model 3” | Picture of car has changed. 
-Est. Delivery (estimated delivery) has been refreshed.
-Technical specifications have been refreshed. | Picture of car has changed. 
-Est. Delivery (estimated delivery) has been refreshed.
-Technical specifications have been refreshed. |
+| 1 | Click button “Model 3 Performance” | Picture of car has changed. Est. Delivery (estimated delivery) has been refreshed. Technical specifications have been refreshed. | Picture of car has changed. Est. Delivery (estimated delivery) has been refreshed. Technical specifications have been refreshed. |
+| 2 | Click button “Model 3” | Picture of car has changed. Est. Delivery (estimated delivery) has been refreshed. Technical specifications have been refreshed. | Picture of car has changed. Est. Delivery (estimated delivery) has been refreshed. Technical specifications have been refreshed. |
 
 # 4. Calling Feature Details
 
@@ -83,9 +73,7 @@ Technical specifications have been refreshed. |
 
 | ID | Test Step Description | Expected Result | Actual Result |
 | --- | --- | --- | --- |
-| 1 | Click color button | Picture of car has changed.
-Name of color and price under buttons have changed. | Picture of car has changed.
-Name of color and price under buttons have changed. |
+| 1 | Click color button | Picture of car has changed. Name of color and price under buttons have changed. | Picture of car has changed. Name of color and price under buttons have changed. |
 
 # 7. Choosing wheels
 
@@ -95,9 +83,7 @@ Name of color and price under buttons have changed. |
 
 | ID | Test Step Description | Expected Result | Actual Result |
 | --- | --- | --- | --- |
-| 1 | Click wheel button | Picture of car has changed.
-Name of wheel, description and price under buttons have changed. | Picture of car has changed.
-Name of wheel, description and price under buttons have changed. |
+| 1 | Click wheel button | Picture of car has changed. Name of wheel, description and price under buttons have changed. | Picture of car has changed. Name of wheel, description and price under buttons have changed. |
 
 # 8. Calling Additional Wheel Information
 
@@ -118,9 +104,7 @@ Name of wheel, description and price under buttons have changed. |
 
 | ID | Test Step Description | Expected Result | Actual Result |
 | --- | --- | --- | --- |
-| 1 | Click colored button | Picture of interior has changed.
-Name of interior and price under buttons have changed. | Picture of interior has changed.
-Name of interior and price under buttons have changed. |
+| 1 | Click colored button | Picture of interior has changed. Name of interior and price under buttons have changed. | Picture of interior has changed. Name of interior and price under buttons have changed. |
 
 # 10. Adding autopilot function
 
